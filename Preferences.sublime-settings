@@ -4,7 +4,7 @@
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
 	"drag_text": false,
-	"draw_white_space": "all",
+	"draw_white_space": "none",
 	"fade_fold_buttons": false,
 	"font_face": "Menlo",
 	"font_options":
@@ -28,7 +28,7 @@
 	"soda_classic_tabs": true,
 	"tab_size": 4,
 	"theme": "Soda Light.sublime-theme",
-	"translate_tabs_to_spaces": true,
+	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"use_simple_full_screen": true
 }
