@@ -30,5 +30,21 @@
 	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-	"use_simple_full_screen": true
+	"use_simple_full_screen": true,
+	"va_alignment_chars": [
+		{
+			"char":        ":",
+			"alignment":   "right",
+			"left_space":  true,
+			"right_space": true,
+			"prefixes":    []
+		},
+		{
+			"char":        "=",
+			"alignment":   "right",
+			"left_space":  true,
+			"right_space": true,
+			"prefixes":    ["+", "-", "&", "|", "<", ">", "!", "~", "%", "/", "*", "."]
+		}
+	]
 }
