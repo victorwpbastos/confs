@@ -1,17 +1,18 @@
 {
 	"installed_packages":
 	[
-		"DocBlockr",
+		"AdvancedNewFile",
+		"AutoFileName",
 		"Emmet",
 		"Handlebars",
-		"Markdown Preview",
-		"Nettuts+ Fetch",
+		"Package Control",
 		"PlainTasks",
+		"Pretty JSON",
 		"SideBarEnhancements",
-		"sublimelint",
 		"SublimeWebColors",
+		"Tag",
 		"Terminal",
-		"Theme - Soda",
+		"Theme - Phoenix",
 		"VAlign"
 	]
 }

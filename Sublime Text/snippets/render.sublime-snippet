@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 onRender: function() {
-	${1:manda bala!}
+	${1}
 }
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->

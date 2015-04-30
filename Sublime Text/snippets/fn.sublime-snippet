@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
-initialize: function() {
-	${1:manda bala!}
+${1}: function(e) {
+	e.preventDefault();
 }
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>init</tabTrigger>
+	<tabTrigger>fn</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>
