@@ -3,8 +3,11 @@
 	[
 		"AdvancedNewFile",
 		"AutoFileName",
+		"Better Completion",
+		"Color Highlighter",
 		"Emmet",
 		"Handlebars",
+		"Oceanic Next Color Scheme",
 		"Package Control",
 		"PlainTasks",
 		"Pretty JSON",
@@ -12,7 +15,7 @@
 		"SublimeWebColors",
 		"Tag",
 		"Terminal",
-		"Theme - Phoenix",
+		"Theme - Fox",
 		"VAlign"
 	]
 }
