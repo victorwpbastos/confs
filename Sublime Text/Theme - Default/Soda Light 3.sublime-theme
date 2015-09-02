@@ -1,0 +1,18 @@
+[
+	// adjust sidebar left margin
+	{
+		"class": "sidebar_tree",
+		"indent_offset": 0 // 15
+	},
+
+	// remove sidebar arrows
+	{
+		"class": "disclosure_button_control",
+		"layer0.opacity": 0.0 // 1.0
+	}
+	// remove sidebar icons
+	// {
+	//     "class": "icon_file_type",
+	//     "content_margin": [0,0]
+	// }
+]

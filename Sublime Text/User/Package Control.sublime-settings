@@ -2,9 +2,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"AutoFileName",
-		"Better Completion",
-		"Color Highlighter",
+		"Babel",
 		"Emmet",
 		"Handlebars",
 		"Oceanic Next Color Scheme",
@@ -16,6 +14,8 @@
 		"Tag",
 		"Terminal",
 		"Theme - Fox",
+		"Theme - Soda",
+		"Themr",
 		"VAlign"
 	]
 }
