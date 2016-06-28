@@ -1,18 +1,12 @@
 {
-	"atomic_save": false,
 	"bold_folder_labels": true,
-	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"copy_with_empty_selection": false,
 	"drag_text": false,
 	"draw_white_space": "selection",
 	"fade_fold_buttons": false,
-	"font_options":
-	[
-		"no_round"
-	],
-	"font_size": 12,
+	"font_size": 13,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
@@ -20,17 +14,20 @@
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"material_theme_compact_panel": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tree_headings": false,
 	"open_files_in_new_window": true,
-	"preview_on_click": true,
 	"remember_open_files": false,
 	"show_full_path": true,
 	"tab_size": 4,
-	"theme": "Fox.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-	"use_simple_full_screen": true,
 	"va_alignment_chars":
 	[
 		{
@@ -63,5 +60,6 @@
 			],
 			"right_space": true
 		}
-	]
+	],
+	"word_wrap": false
 }
